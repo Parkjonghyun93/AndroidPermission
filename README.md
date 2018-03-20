@@ -10,4 +10,3 @@ then set to Java8
 
 ( Project structure -> app(side) -> Properties(top) -> Source compatibility, Target compatibility )
 
-Finally i want to convert to kotlin..
